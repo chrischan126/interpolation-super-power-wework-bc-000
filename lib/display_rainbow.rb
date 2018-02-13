@@ -2,7 +2,7 @@
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-puts 'prints out the colors of the rainbow correctly when passed in in order'
+puts 'the colors of the rainbow correctly when passed in in order'
 
 
 def display_rainbow (colors)
