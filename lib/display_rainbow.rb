@@ -6,7 +6,7 @@ colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 
 def #display_rainbow (colors)
-  puts 'prints out the colors of the rainbow correctly when passed in in order'
+  puts "prints out the colors of the rainbow correctly when passed in in order"
   
   print "R: #{colors[0]}, "
   print "O: #{colors[1]}, "
