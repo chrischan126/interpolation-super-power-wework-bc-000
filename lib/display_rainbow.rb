@@ -16,7 +16,7 @@ def display_rainbow (colors)
   print "V: #{colors[6]}"
 end
 
-display_rainbow
+
 
 #display the following
 #R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n
