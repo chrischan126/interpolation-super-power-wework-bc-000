@@ -14,4 +14,4 @@ end
 
 #R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n
 
-puts display_rainbow
+#puts display_rainbow
