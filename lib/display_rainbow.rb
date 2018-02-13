@@ -11,5 +11,3 @@ def display_rainbow (colors)
   print "I: #{colors[5]}, "
   print "Y: #{colors[6]}"
 end
-
-display_rainbow
